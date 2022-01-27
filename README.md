@@ -1,2 +1,0 @@
-# bambs
-mon premier
